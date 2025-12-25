@@ -1,5 +1,4 @@
 # js-doom-injector
-# DOOM > DOM 🔫
 
 Um script JavaScript injetor ("Stager") que substitui o conteúdo do corpo (`<body>`) de qualquer página da web por uma versão totalmente jogável do clássico **DOOM** rodando via WebAssembly.
 
