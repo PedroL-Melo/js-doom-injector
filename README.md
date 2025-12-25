@@ -50,4 +50,3 @@ Em campos de input vulneráveis (sem sanitização adequada), você pode utiliza
 ## Credits
 
 - **DOOM Wasm Port:** O porte do jogo para WebAssembly é mantido por [diekmann](https://github.com/diekmann/wasm-fizzbuzz).
-- **Injector Script:** Desenvolvido por [PedroL-Melo].
